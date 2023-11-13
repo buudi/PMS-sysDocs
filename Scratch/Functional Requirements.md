@@ -2,33 +2,25 @@
 
 ---
 ## 1. Introduction <a name="introduction"></a>
-
 This document provides a detailed overview of the functional requirements for the Property Management System. The system aims to streamline property leasing operations, including the management of properties, users, and financial transactions.
 
 ---
-
 ## 2. Users Component <a name="users-component"></a>
 
 ### Admin Responsibilities <a name="admin-responsibilities"></a>
-
 - Create and manage user accounts for Caretakers.
 - Add partners to properties and define their respective shares.
 - Define access levels and permissions for each user role.
 - Monitor system activities and generate reports.
-
 #### Additional Functions <a name="additional-functions"></a>
-
 - Implement password reset functionality for user accounts.
 - Maintain user activity logs for auditing purposes.
 
 #### Caretaker Responsibilities <a name="caretaker-responsibilities"></a>
-
 - Collect rent from tenants.
 - Handle onboarding of new tenants.
 - Record and manage expenses related to the properties.
-
 #### Additional Functions for Caretaker <a name="additional-functions-caretaker"></a>
-
 - Manage tenant lifecycle, including move-ins, move-outs, and lease renewals.
 - Generate reports on rent collection and expenses.
 - Maintain user activity logs for auditing purposes.
