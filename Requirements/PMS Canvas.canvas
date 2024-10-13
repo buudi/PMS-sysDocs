@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"cca299d189b8fe9f","type":"group","x":-840,"y":-1040,"width":1300,"height":1220,"label":"Functional Plan"},
 		{"id":"418cd6e26d075c01","type":"group","x":960,"y":-1040,"width":1200,"height":1220,"label":"Functional Plan"},
-		{"id":"423af68ed4eaca72","type":"file","file":"PMS/Scratch/Use cases.md","x":-800,"y":-980,"width":900,"height":519},
-		{"id":"289aeb45cd7fbf93","type":"file","file":"PMS/Scratch/Use cases.md","x":1000,"y":-980,"width":900,"height":519},
-		{"id":"740464849d761b8c","type":"file","file":"PMS/Scratch/Functional Requirements.md","x":1200,"y":-340,"width":960,"height":500,"color":"3"},
-		{"id":"e95370ebeacea532","type":"text","text":"You could write any thing here","x":40,"y":360,"width":960,"height":480,"color":"4"},
-		{"id":"300a5694578c1c03","type":"file","file":"PMS/Scratch/Functional Requirements.md","x":-620,"y":-360,"width":960,"height":500,"color":"3"}
+		{"id":"423af68ed4eaca72","type":"file","file":"PMS/Requirements/Use cases.md","x":-800,"y":-980,"width":900,"height":519},
+		{"id":"289aeb45cd7fbf93","type":"file","file":"PMS/Requirements/Use cases.md","x":1000,"y":-980,"width":900,"height":519},
+		{"id":"740464849d761b8c","type":"file","file":"PMS/Requirements/Functional Requirements.md","x":1200,"y":-340,"width":960,"height":500,"color":"3"},
+		{"id":"e95370ebeacea532","type":"text","text":"You could write any thing here ","x":40,"y":360,"width":960,"height":480,"color":"4"},
+		{"id":"300a5694578c1c03","type":"file","file":"PMS/Requirements/Functional Requirements.md","x":-620,"y":-380,"width":960,"height":500,"color":"3"}
 	],
 	"edges":[
 		{"id":"51da428262a19798","fromNode":"300a5694578c1c03","fromSide":"top","toNode":"423af68ed4eaca72","toSide":"bottom"},
